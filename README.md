@@ -1,5 +1,8 @@
 # Blender 3D 建模作品集
 
+![lang](https://img.shields.io/badge/lang-docs-informational) ![status](https://img.shields.io/badge/status-maintained-brightgreen)
+
+
 游戏资产方向 · 个人练习 · 持续更新
 
 > 本仓库收录个人 Blender 建模/材质/特效练习作品，多为参考网络教程与视频的**复刻练习**（建模、材质、场景、特效方向）。
@@ -8,7 +11,7 @@
 
 ---
 
-## 🗂️ 分类导航
+##  分类导航
 
 - [Models 模型资产](#models-模型资产)
 - [Scenes 场景](#scenes-场景)
@@ -84,9 +87,9 @@
 
 ---
 
-## 🛠 工具链
+##  工具链
 
 Blender 4.x / 5.x · 粒子系统 · Flip Fluid 流体 · 体积云 · 材质着色器 · 几何节点
 
 ---
-© 2026 · 个人建模练习作品集 · 持续更新
+ 2026 · 个人建模练习作品集 · 持续更新
